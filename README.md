@@ -17,4 +17,4 @@ Ce projet est un jeu d'adresse où le joueur doit empiler des blocs mobiles avec
 
 ## 🔗 Jouer en ligne / Play Live
 Vous pouvez tester le jeu directement en ligne ici : 
-👉 [Lien vers votre GitHub Pages]
+👉 [https://lengyuan1.github.io/tower-game/](https://lengyuan1.github.io/tower-game/)

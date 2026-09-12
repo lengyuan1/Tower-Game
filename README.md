@@ -18,7 +18,7 @@ Ce projet est un mini-jeu d'adresse interactif dans lequel le joueur doit clique
 - **Logique de jeu :** Implémentation complète des états du jeu (prêt, en cours, terminé, réinitialisation) et de la boucle de rendu via `requestAnimationFrame`.
 
 ### Lien de déploiement
-[Jouer au jeu en ligne](https://lengyuan1.github.io/tower-game/
+[Jouer au jeu en ligne](https://lengyuan1.github.io/tower-game/)
 ---
 
 ## 🇨🇳 中文
@@ -37,4 +37,4 @@ Ce projet est un mini-jeu d'adresse interactif dans lequel le joueur doit clique
 [在线游玩游戏](https://lengyuan1.github.io/tower-game/)
 
 
-)
+
